@@ -1,0 +1,34 @@
+.cursive{
+    font-family: 'Dancing Script', cursive;
+}
+
+.head{
+    text-align: center;
+    justify-content: center;
+}
+
+.tab {
+    background-color: #FA9884;
+    color:  white;
+}
+
+.crop{
+    border-radius: 50%;
+    
+}
+
+.dots {
+    border-top: 5px dotted #E74646;
+    margin-left: 45%;
+    margin-right:45%;
+
+  }
+
+  .code{
+    margin: 0px;
+    padding: 10px;
+  }
+
+  body{
+    background-color: #FFF3E2;
+  }
